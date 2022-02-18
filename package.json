@@ -1,0 +1,25 @@
+{
+  "name": "trello",
+  "version": "1.0.0",
+  "description": "trello website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "annu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDPMNJIT/projectTrello.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SDPMNJIT/projectTrello/issues"
+  },
+  "homepage": "https://github.com/SDPMNJIT/projectTrello#readme"
+}
